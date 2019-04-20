@@ -1,0 +1,19 @@
+{
+  "name": "zineful",
+  "version": "0.0.1",
+  "description": "A developer centric Graphql CMS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devcon4/zineful.git"
+  },
+  "author": "Devyn Cyphers (Devcon42)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devcon4/zineful/issues"
+  },
+  "homepage": "https://github.com/Devcon4/zineful#readme"
+}
